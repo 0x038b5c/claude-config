@@ -1,0 +1,6 @@
+[global]
+github_username = "0x038b5c"
+payload_repo = "0x038b5c/claude-payload"
+state_repo = "0x038b5c/claude-state"
+signing_enabled = true
+git_signing_format = "ssh"
